@@ -1,0 +1,16 @@
+.bgimage {
+	background-image: 
+			url("../images/2020-ford-mustang-shelby-gt500-drive-214-1572321993.jpg");
+	background-position: center center;
+	background-size: cover;
+	height: 525px;
+	color: rgb(0, 255, 200);
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.fotterow {
+	color: rgb(255, 0, 0);
+	margin-top: 100px;
+}
+
